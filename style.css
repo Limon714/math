@@ -1,0 +1,16 @@
+body {
+    text-align:center;
+    font-size:25px;
+    color:aqua;
+    background-color: #163372dc;
+}
+@media only screen and (max-width:480px){
+    body{
+       font-size: 20px;
+    }
+    h2{
+        font-size: 25px;
+        text-align: center;
+    }
+    
+}
